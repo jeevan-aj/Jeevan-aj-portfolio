@@ -11,7 +11,7 @@ const Hero = () => {
 
       <p>
         Hi, I amm Jeevan Abraham Joji. A passionate Front-end React Developer based
-        in Belgrade, Serbia. 📍
+        in Kerala, India. 📍
       </p>
       <div className={`${styles.heroSocials}`}>
         <a href="">
