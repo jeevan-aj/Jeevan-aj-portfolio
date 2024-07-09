@@ -11,7 +11,7 @@ const AboutMe = () => {
           <div className={`${styles.aboutMeContents}`}>
             <h3>About Me</h3>
             <h4>Full-stack Developer <br/> based in India 📍</h4>
-            <p className=''>Hey, my name is Jeevan, and I'm a Full-stack Developer. My passion is to create and develop clean and interactive and fast websites.</p>
+            <p className=''>Hey, my name is Jeevan, and I am a Full-stack Developer. My passion is to create and develop clean and interactive and fast websites.</p>
             <p>My main stack currently is Mern in combination with Tailwind CSS and TypeScript.</p>
           </div>
         
