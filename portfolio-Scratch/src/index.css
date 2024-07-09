@@ -33,3 +33,11 @@ p {
   font-size: 14px;
   line-height: 1.2;
 }
+
+h4{
+  font-family:'Poppins',sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 1.2;
+  font-size: 25px;
+}

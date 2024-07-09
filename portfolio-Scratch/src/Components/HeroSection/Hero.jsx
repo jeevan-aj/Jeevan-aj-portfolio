@@ -11,13 +11,13 @@ const Hero = () => {
 
       <p>
         Hi, I amm Jeevan Abraham Joji. A passionate Front-end React Developer based
-        in Belgrade, Serbia. 📍
+        in Kerala, India. 📍
       </p>
       <div className={`${styles.heroSocials}`}>
-        <a href="">
+        <a href="https://github.com/jeevan-aj">
           <FaGithub size={40} />
         </a>
-        <a href="">
+        <a href="https://www.linkedin.com/in/jeevan-joji-25b799275/">
           <BsLinkedin size={40} style={{fill:"#0a66c2"}}/>
         </a>
       </div>
